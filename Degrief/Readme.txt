@@ -2,8 +2,8 @@ Degrief is a server side mod that detects item spam and deletes all items if the
 
 By: UFIOES
 
-To install, extract Degrief into the server's mods folder: \Mods\
-Then add "Mods/Degrief" to the server's mods config file: \Config\mods.txt
+To install, extract Degrief into the server's mods folder: \TUG\Mods\
+Then add "Mods/Degrief" to the server's mods config file: \TUG\Config\mods.txt
 e.g.
 
 Mods
@@ -16,7 +16,6 @@ Mods
 }
 
 I would like to thank:
-	StilleVande: for allowing me to test this mod on his server.
 	NerdKingdom: for TUG.
 
 Copyright 2015 UFIOES
